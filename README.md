@@ -1,1 +1,3 @@
 # capstoneERD
+
+![Screenshot](forumProject.png)
